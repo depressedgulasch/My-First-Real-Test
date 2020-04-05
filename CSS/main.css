@@ -1,7 +1,14 @@
 header {
+	background-color: grey;
 	text-align: center;
-	color: red;
+	padding: 20px;
 }
 h1 {color:blue;
 
+}
+p {font-family: Monaco
+}
+.column {
+  float: left;
+  width: 33.33%;
 }
